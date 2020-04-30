@@ -72,9 +72,6 @@
 									<id>com.sun.activation:jakarta.activation:1.2.1</id>
 								</artifact>
 								<artifact>
-									<id>javax.mail:dsn:1.4</id>
-								</artifact>
-								<artifact>
 									<id>org.owasp.encoder:encoder:1.2.2</id>
 								</artifact>
 								<artifact>
